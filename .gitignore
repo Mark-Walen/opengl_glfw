@@ -68,9 +68,11 @@ dkms.conf
 # build
 build
 
-# glfw lib
+# include glfw lib
 !deps/glfw3/lib-mingw-w64/*.a
 !deps/glfw3/lib-mingw-w64/*.dll
 !deps/glfw3/lib-static-ucrt/*.lib
 !deps/glfw3/lib-static-ucrt/*.dll
+
+# include build cmd
 !build_d.cmd
