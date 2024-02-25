@@ -73,3 +73,4 @@ build
 !deps/glfw3/lib-mingw-w64/*.dll
 !deps/glfw3/lib-static-ucrt/*.lib
 !deps/glfw3/lib-static-ucrt/*.dll
+!build_d.cmd
