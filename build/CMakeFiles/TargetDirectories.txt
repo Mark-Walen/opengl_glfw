@@ -1,3 +1,0 @@
-D:/git/opengl_glfw/build/CMakeFiles/first_app.dir
-D:/git/opengl_glfw/build/CMakeFiles/edit_cache.dir
-D:/git/opengl_glfw/build/CMakeFiles/rebuild_cache.dir
