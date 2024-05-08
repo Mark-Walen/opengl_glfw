@@ -76,3 +76,5 @@ build
 
 # include build cmd
 !build_d.cmd
+
+.vscode/*
